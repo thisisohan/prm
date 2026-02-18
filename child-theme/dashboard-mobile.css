@@ -1,0 +1,148 @@
+.npm-header-flex {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 15px !important;
+}
+#npm-filter-form {
+    flex-direction: column !important;
+    width: 100% !important;
+}
+.filters {
+    width: 100%;
+}
+#npm-filter-form {
+    display: flex;
+    gap: 10px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    align-items: stretch;
+}  
+.npm-main-container {
+    flex-direction: column;
+}
+
+.npm-content-area {
+    order: 1;
+}
+
+.npm-sidebar {
+    order: 2;
+    flex-direction: row;
+}
+
+.npm-widget {
+    flex: 1;
+}
+        
+.npm-card-table {
+    overflow-x: auto !important;
+    display: block;
+    width: 100%;
+    -webkit-overflow-scrolling: touch;
+}
+
+
+.npm-card-table table {
+    min-width: 650px; 
+}
+
+
+.npm-card-table td, .npm-card-table th {
+    padding: 10px 8px !important;
+    font-size: 12px;
+}
+
+
+.npm-main-container {
+    flex-direction: column;
+}
+
+.npm-content-area {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.npm-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.nemrac-prm-entry {
+    padding: 10px !important;
+}
+
+.user-description-area {
+    flex-direction: column !important;
+    gap: 15px !important;
+}
+
+.user-description table {
+    width: 100% !important;
+    font-size: 13px !important;
+}
+
+.today-dt {
+    text-align: center !important;
+    width: 100% !important;
+    padding: 10px !important;
+    background: #f0f0f0;
+    border-radius: 8px;
+}
+
+.prm-filter {
+    flex-direction: column !important;
+    gap: 15px !important;
+}
+
+.prm-filter-date, .prm-filter-section-dropdown {
+    width: 100% !important;
+}
+
+.prm-filter input, .prm-filter select {
+    width: 100% !important;
+    height: 45px !important;
+}
+
+.line-grid {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 12px !important;
+}
+
+.line-grid div {
+    width: 100% !important;
+}
+
+.line-grid label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.line-grid input {
+    width: 100% !important;
+    padding: 12px !important;
+    font-size: 16px !important;
+}
+
+.line-block {
+    margin-bottom: 20px !important;
+    padding: 15px !important;
+    border: 1px solid #ddd !important;
+}
+
+.line-block h4 {
+    font-size: 16px !important;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.submit-area button {
+    width: 100% !important;
+    padding: 15px !important;
+    font-size: 18px !important;
+}

@@ -28,7 +28,7 @@ A real-world production management system built for a garment manufacturing comp
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/nemrac-production-management.git
+   git clone https://github.com/thisisohan/prm.git
 
 2. Upload the template files to your child theme.
 

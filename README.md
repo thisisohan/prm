@@ -40,6 +40,33 @@ A real-world production management system built for a garment manufacturing comp
 
 ---
 
+## 📸 Screenshots
+
+
+
+### 📊 Dashboard (Full View)
+![Dashboard Full](assets/images/dashboard-full.jpg)
+
+### 📂 Sections Expanded (All Lines View)
+![Sections Expanded](assets/images/dashboard-expanded.png)
+
+### 🧾 Production Entry (Section Selection)
+![Production Entry](assets/images/production-entry.png)
+
+### ✍️ Production Report Entry Fields
+![Production Report Fields](assets/images/report-fields.png)
+
+### 🔐 Access Management
+![Access Management](assets/images/access-management.png)
+
+### 🔄 Production Report Change Log
+![Change Log](assets/images/change-log.png)
+
+### 👨‍🏭 Section In-Charge Assignment
+![Section Assign](assets/images/section-assign.png)
+
+---
+
 ## Author
 
 Md. Sohanur Rahaman Khan  

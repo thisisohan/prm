@@ -75,7 +75,7 @@ Full-stack developer with experience in building real-world business systems usi
 Interested in enterprise tools, automation, dashboards, and data-driven systems.
 
 GitHub: https://github.com/thisisohan  
-LinkedIn: https://linkedin.com/in/yourprofile  
+LinkedIn: https://linkedin.com/in/thisissohan/
 Email: sohankhan.contact@gmail.com
 
 ---
